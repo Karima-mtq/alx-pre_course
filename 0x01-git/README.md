@@ -1,1 +1,1 @@
-# README for 0x01-git directory updated
+# README for 0x01-git directory
